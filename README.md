@@ -126,7 +126,7 @@ A qualidade foi balizada pela Taxonomia de Bloom Revisada (Anderson & Krathwohl,
 
 </details>
 
-> **Nota de Confidencialidade:** Conforme orientação da Comissão Organizadora, as 16 questões não publicadas do banco de trabalho permanecem sob sigilo para preservar a integridade acadêmica das futuras fases e edições da ONIA.
+> **Nota de Confidencialidade:** Conforme orientação da Comissão Organizadora, as outras questões não publicadas do banco de trabalho permanecem sob sigilo para preservar a integridade acadêmica das futuras fases e edições da ONIA.
 
 ---
 
