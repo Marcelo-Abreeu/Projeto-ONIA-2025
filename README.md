@@ -132,7 +132,7 @@ A qualidade foi balizada pela Taxonomia de Bloom Revisada (Anderson & Krathwohl,
 
 ## **6. Outros Projetos Relevantes**
 
-### Projeto de Machine Learning (Fase Final – ONIA 2024/2025)
+### Projeto de Machine Learning (3ª FASE – ONIA 2024/2025)
 A base técnica para o design conceitual das questões foi consolidada no desenvolvimento de um modelo preditivo durante a fase final da ONIA 2024, onde apliquei técnicas de *feature engineering* e regressão.
 
 [**→ Acessar Análise Técnica Completa no Repositório Dedicado**](https://github.com/Marcelo-Abreeu/Machine-Learning)
